@@ -1,6 +1,6 @@
 ## ThinkCentre-M80q Gen1 Hackintosh OpenCore EFI
 
-### [简体中文](README.zh_CN.md)
+
 
 
 ### OpenCore
@@ -19,11 +19,11 @@
 ### Spec
 
 - Chipset: Q470
-- CPU: Intel 10th i3-10105T
-- Memo: Samsung 16GB DDR4 2666 Mhz
+- CPU: Intel 10th i5-10500T
+- Memo: Samsung 24GB(8+16) DDR4 2666 Mhz
 - iGPU: Intel UHD Graphic 630
 - HDA: Realtek ALC233
-- SSD: WD SN750 512G
+- SSD: NVMe Kingston 512G
 - LAN: Intel
 - WLAN: BCM94360CS2
 
