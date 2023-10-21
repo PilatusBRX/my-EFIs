@@ -57,16 +57,6 @@ Startup
 ### Notes
  - Use [OpenCore Configurator](https://mackie100projects.altervista.org/opencore-configurator/) build your SMBIOS
  - U Must Use CFGLock.efi Tool Unlock CFG LOCK first
-![image](Screenshot/CFGLock.efi.png)
-
-### Screenshot
-
-![macOS Ventura](Screenshot/about.png)
-
-![Info](Screenshot/info.png)
-
-![Geekbench 5](Screenshot/geekbench5.png)
-
 
 ### Kexts
 
@@ -92,8 +82,6 @@ Startup
 - [ProperTree](https://github.com/corpnewt/ProperTree) Plist editor.
 
 
-### Contact Us
 
- - [Hackintosh.Club](https://hackintosh.club/) 
- - QQ Group: 23304408 
- ![image](Screenshot/QRCode.png)
+
+ 
